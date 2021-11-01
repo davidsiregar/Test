@@ -1,6 +1,4 @@
- <?php
-      
-    function generateRandom($lenght=28)
+function generateRandom($lenght=28)
     {
         $character= "0123456789abcdefghijklmopqrsutvwxyz";
         $characterLeng= strlen($character);
@@ -13,6 +11,6 @@
     }
     
     generateRandom();
-?>
+
 
 
