@@ -2,7 +2,7 @@
 
 $sname = "localHost";
 $uname="root";
-$password="";
+$password="root";
 
 $db_name= "library";
 
